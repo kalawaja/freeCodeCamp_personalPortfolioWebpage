@@ -2,7 +2,6 @@
 :root {
   --main-gold: #ffd000;
   --main-white: #f0f0f0;
-  --main-blue: #34496f;
   --main-gray: #202427;
 }
 
@@ -181,7 +180,7 @@ img {
 .projects-section {
   text-align: center;
   padding: 10rem 2rem;
-  background: var(--main-blue);
+  background: var(--main-gold);
   background-image: linear-gradient(360deg, var(--main-gold)40%, var(--main-gray)60%);
 }
 
